@@ -1,0 +1,63 @@
+/** Add css rules here for your application. */
+
+
+/** Example rules used by the template application (remove for your app) */
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  color: #777777;
+  margin: 40px 0px 70px;
+  text-align: center;
+}
+
+.serverResponseLabelError {
+  color: red;
+}
+
+#status_msg{
+text-align: center;
+font-size: 150%;
+font-style: italic;
+color: #AAA;
+}
+
+#log_panel{
+display: block;
+margin: 0 auto 0 auto;
+width: 700px;
+height: auto;
+border: 2px solid #AAA !important;
+text-align: center;
+}
+
+#password_textbox{
+   width: 60%;
+   padding: 12px 20px;
+   margin: 8px 0;
+   box-sizing: border-box;	
+}
+
+.blog_panel{
+text-align: center;
+}
+
+.log_panel{
+    margin: 50px 0 0 15px;
+}
+
+.button_panel{
+width: 700px;
+display: block;
+margin: 0 auto 0 auto;
+text-align: right;
+padding: 10px;	
+}
+
+.log_button{
+    margin: 50px 0 0 15px;    
+}
+
+
+
+
+
